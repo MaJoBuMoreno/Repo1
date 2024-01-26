@@ -4,10 +4,20 @@ author: "Maria Jose Bu"
 format: html
 editor: visual
 ---
+
+::: panel-tabset
+
 ## Prueba 1
 
-### Ejercicio 1
+sin copiar a sus colegas
+
+## Ejercicio 1
+
+En pareja
 
 ## Ejericio 2
 
-## hi
+Es individual
+
+:::
+
