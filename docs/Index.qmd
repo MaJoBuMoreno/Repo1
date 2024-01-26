@@ -1,23 +1,26 @@
 ---
-title: "Font"
-author: "Maria Jose Bu"
+title: "ddd"
 format: html
 editor: visual
 ---
 
-::: panel-tabset
+## Quarto
 
-## Prueba 1
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
-sin copiar a sus colegas
+## Running Code
 
-## Ejercicio 1
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
-En pareja
+```{r}
+1 + 1
+```
 
-## Ejericio 2
+You can add options to executable code like this
 
-Es individual
+```{r}
+#| echo: false
+2 * 2
+```
 
-:::
-
+The `echo: false` option disables the printing of code (only output is displayed).
